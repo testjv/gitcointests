@@ -1,1 +1,1 @@
-just testing gitcoin new features.!
+just testing gitcoin new features
